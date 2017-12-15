@@ -1,2 +1,4 @@
 # hello-world
-just a test repository
+
+This is ShawnShen's first github project!
+That's look interesting!
