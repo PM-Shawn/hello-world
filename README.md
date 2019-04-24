@@ -1,4 +1,4 @@
 # hello-world
 
-This is ShawnShen's first github project!
+This is ShawnShen's the first github project!
 It looks interesting!
